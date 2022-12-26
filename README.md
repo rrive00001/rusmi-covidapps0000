@@ -1,3 +1,3 @@
 # rusmi-covidapps0000
 
-//revisi dari rusmi-covidapps
+//revisi dari rusmi-covidapp
